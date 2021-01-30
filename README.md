@@ -1,6 +1,6 @@
 Command to compile and run.
-java Atm.java
-java Atm
+<h3>java Atm.java<h3>
+<h3>java Atm<h3>
 
 <h1>The complete test result is below</h1>
 
