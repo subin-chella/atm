@@ -14,6 +14,7 @@ public class Atm {
 		TWENTY(20), TEN(10), FIVE(5), ONE(1);
 
 		private final int value;
+Thread.sleep(1000);
 
 		Denomination(final int newValue) {
 			value = newValue;
