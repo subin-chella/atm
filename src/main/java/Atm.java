@@ -12,6 +12,7 @@ public class Atm {
 
 	enum Denomination {// A new bill denomination can be added here
 		TWENTY(20), TEN(10), FIVE(5), ONE(1);
+Thread.sleep(1000);
 
 		private final int value;
 Thread.sleep(1000);
